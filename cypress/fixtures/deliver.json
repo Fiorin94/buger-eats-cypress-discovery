@@ -1,0 +1,53 @@
+{
+    "signup": {
+        "name": "Felipe Fiorin",
+        "cpf": "39823661863",
+        "email": "felipefiorin94@gmail.com",
+        "whatsapp": "11982627602",
+        "address": {
+            "postalcode": "02967020",
+            "street": "Rua Galdino Rosa",
+            "number": "176",
+            "details": "Casa 1",
+            "district": "Vila Regina",
+            "city_state": "São Paulo/SP"
+      },
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Izabella Moreno",
+        "cpf": "X9823661AAA",
+        "email": "moreno.izabella@gmail.com",
+        "whatsapp": "11982627602",
+        "address": {
+            "postalcode": "02967020",
+            "street": "Rua Galdino Rosa",
+            "number": "176",
+            "details": "Casa 1",
+            "district": "Vila Regina",
+            "city_state": "São Paulo/SP"
+      },
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital.jpg"  
+    },
+
+    "email_inv":{
+        "name": "Antonio Donizete",
+        "cpf": "01159279802",
+        "email": "dete.com.br",
+        "whatsapp": "11982627602",
+        "address": {
+            "postalcode": "02967020",
+            "street": "Rua Galdino Rosa",
+            "number": "176",
+            "details": "Casa 1",
+            "district": "Vila Regina",
+            "city_state": "São Paulo/SP"
+      },
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital.jpg"  
+    }
+
+}
